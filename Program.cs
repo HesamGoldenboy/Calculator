@@ -46,6 +46,7 @@ namespace Calculator
 
             Console.WriteLine("Natige barabare ba " + result);
             Console.WriteLine("Mamnoon ke az barname man estefade kardi!");
+            Console.WriteLine("Programmer: Hesam Badamchi");
         }
     }
 }
